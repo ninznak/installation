@@ -6,7 +6,7 @@ import java.util.Date;
 public class Main {
     static Date localDateTime = new Date();
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
 
         StringBuilder sb = new StringBuilder();
 
